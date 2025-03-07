@@ -2,7 +2,7 @@
 
 ## Background
 Retroactive Breaching is a retro-style tycoon game(demo) developed during a 24-hour hackaton, by a team of fresh 2nd year students, focused on cybersecurity.<br>
-The game immerses players in the world of cybersecurity, where they on the role of a hacker managing various cyber-attacks, upgrading their tools and expanding their influence.
+The game immerses players in the world of cybersecurity, where they take on the role of a hacker managing various cyber-attacks, upgrading their tools and expanding their influence.
 The game is built using Python and the Pygame library. 
 
 ## Game Features
